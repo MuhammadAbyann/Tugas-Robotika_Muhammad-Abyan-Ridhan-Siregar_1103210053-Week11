@@ -1,2 +1,2 @@
-# Tugas-Robotika_Muhammad-Abyan-Ridhan-Siregar_1103210053-Week11
+# Tugas-Robotika-Week11
 Landing AI and Ultralytics
